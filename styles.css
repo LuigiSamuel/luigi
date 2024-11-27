@@ -1,0 +1,76 @@
+Rengoku vs Akaza [4K 60FPS] Demon Slayer - Mugen Train
+#Anime 
+
+
+body{
+    color: rgb(0, 0, 0);
+    background: rgb(0, 180, 105);
+    margin: 0px;
+}
+
+header {
+    border: solid 2px rgb(168, 168, 168);
+
+   padding: 20px;
+   font-size: 32px;
+   color:black
+
+}
+
+.chamada {
+    background: white;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.chamada-texto {
+    margin-right: 5%;
+    font-family: "Chakra Petch", sans-serif;
+     margin-bottom: 100px;
+}
+
+h1 {
+    font-size: 40px;
+
+}
+
+p {
+
+font-size: 20px;
+
+}
+
+.categorias-videos  { 
+
+display: flex;
+overflow: auto;
+gap: 10px;
+
+}
+
+.categoria {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 50px;
+        
+}
+.categorias-videos img {
+    opacity: o.5;
+    height: 100px;  
+
+}
+
+.categorias-videos img {
+
+    opacity: 1.0;
+    border: 1px solid rgb(0, 54, 153)
+
+}
+
+.categoria h2 {
+
+    color: rgb(255, 255, 255);
+}
